@@ -16,7 +16,7 @@ This project predicts the 2026 FIFA World Cup tournament using Machine Learning 
 - Historical World Cup matches (1930-2022) from Kaggle
 - 2026 World Cup fixtures from Kaggle
 - FIFA Rankings from Wikipedia
-- Tournament Brack Simulation from The Straits Times
+- Tournament Bracket Simulation from The Straits Times
 
 ## Tools
 - R
